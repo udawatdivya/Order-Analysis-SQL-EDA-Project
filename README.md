@@ -55,10 +55,10 @@ Analyze orders data to uncover trends, segment customers, track performance metr
 
 ## 📈 Insights
 
-- 📍 Most orders came from [CityName]
+- 📍 Most orders came from New York
 - 🛍️ Returning customers contributed higher AOV
-- 🕓 Delivery delays occurred mainly in [Month/City]
-- 🚚 Top-selling category: [ProductCategory]
+- 🕓 Delivery delays occurred mainly in February/Chicago.
+- 🚚 Top-selling category: Chinese.
 
 ---
 
@@ -74,5 +74,5 @@ This project demonstrates skills in:
 
 ## 📬 Connect With Me
 
-- 📧 Email: [suryarawlot6@gmail.com](mailto:suryarawlot6@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: udawatdivya80@gmail.com
+- 🌐 LinkedIn: www.linkedin.com/in/divya-rathore-b95b5324b
